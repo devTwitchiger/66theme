@@ -1,0 +1,29 @@
+/**
+ * @name 066 Theme
+ * @author twitchiger
+ * @version 1.0
+ * @description A theme with an Topographic/Wavy Background.
+ * @source https://github.com/devTwitchiger/66theme
+ */
+
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+
+:root{
+  --background: url('https://github.com/devTwitchiger/66theme/blob/main/wallpaper.jpg');
+  --activetext-color: white;
+
+  --primary1-colour: white;
+  --primary2-colour: (255, 255, 255, 0.5);
+  --primary3-colour: (255, 255, 255, 0.6);
+
+  --secondary1-colour: rgba(50,50,50,0.3);
+  --secondary2-colour: rgba(100,100,100,0.5);
+  --secondary3-colour: rgba(0,0,0,0.5);
+
+  --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+  --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
