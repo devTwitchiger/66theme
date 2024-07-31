@@ -1,13 +1,14 @@
 /**
  * @name 066 Theme
- * @author twitchiger
+ * @author twitchiger, VaporousCreeper
  * @version 1.0
- * @description A theme with an Topographic/Wavy Background.
+ * @description A theme with an Topographic/Wavy Background. A GGO Kirito Fork.
  * @source https://github.com/devTwitchiger/66theme
  */
 
 
 @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
   --background: url('https://github.com/devTwitchiger/66theme/blob/main/wallpaper.jpg');
